@@ -1,0 +1,4 @@
+Name: Clarice Muthoni Gitonga
+Student Number: 127707
+Suprevisor: Selina Evelia
+Project Title: A web based application that tracks donations and identifies donor patterns using machine learning.
